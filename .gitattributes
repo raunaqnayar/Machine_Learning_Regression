@@ -1,1 +1,2 @@
 Bulldozers_Price_prediction_project/data/bluebook-for-bulldozers/TrainAndValid.csv filter=lfs diff=lfs merge=lfs -text
+Bulldozers_Price_prediction_project/data/bluebook-for-bulldozers/final_model.pkl filter=lfs diff=lfs merge=lfs -text
